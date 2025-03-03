@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinlopez7/mongoose_intersect.git"
+    "url": "git+https://github.com/JorgePolidura123/mongoose_intersect.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/martinlopez7/mongoose_intersect/issues"
+    "url": "https://github.com/JorgePolidura123/mongoose_intersect/issues"
   },
-  "homepage": "https://github.com/martinlopez7/mongoose_intersect#readme",
+  "homepage": "https://github.com/JorgePolidura123/mongoose_intersect#readme",
   "description": "",
   "dependencies": {
     "mongoose": "^8.10.1",
